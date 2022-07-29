@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES6",
+    "rootDir": "./src/",
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "strict": true
+  }
+}
